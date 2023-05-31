@@ -1,0 +1,22 @@
+.table1{
+    width: 100%;
+    background-color: lightblue;
+    height: 200px;
+  
+    
+}
+
+td,th{
+    border: 1px solid black; 
+   /* background-color: blue; */
+   color:black
+   
+}
+img{
+    max-height: 12rem;
+}
+
+#deleteBtn{
+   align-items: center;
+   
+}
